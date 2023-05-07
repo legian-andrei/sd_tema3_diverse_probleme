@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683466809 source:c:\users\andre\documents\sd-lab\sd_tema3_diverse_probleme\alibaba\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<deque>
+
