@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685301291 source:c:\users\andre\documents\sd-lab\sd_tema3_diverse_probleme\datorii\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685308342 source:c:\users\andre\documents\sd-lab\sd_tema3_diverse_probleme\arb_de_intervale\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
